@@ -9,3 +9,6 @@ si
 c-¿Si BETA agrega un archivo los demás integrantes lo ven?
 d-¿De qué forma se comunicaron ustedes?
 e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+
+c- Si, si lo agrega desde la rama main o master, lo veran todos, si lo agrega desde otra rama, lo veran pero no junto al principal
+d- Por nuestra parte nos comunicamos a treves de whatsapp, pero existe un apartado de Issues en github que sirve para comunicarse entre los colaboradores del repositorio.
